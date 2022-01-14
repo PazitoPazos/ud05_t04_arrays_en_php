@@ -16,7 +16,7 @@
             echo "O DNI de Rosalía é: ".$dnisAmigos["Rosalía"]."<br/>";
 
             // Array de dúas dimensións
-            $cocheAmigos = array
+            $cochesAmigos = array
                 (
                     "Antón"=>array
                     (
